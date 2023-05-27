@@ -20,5 +20,5 @@ Aqui estão alguns exemplos de como você pode utilizar as imagens deste reposit
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser dizer "olá", sinta-se à vontade para entrar em contato comigo. Você pode me encontrar em[paulorodri29.github.io/].
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer "olá", sinta-se à vontade para entrar em contato comigo. Você pode me encontrar em paulorodri29.github.io/.
 
